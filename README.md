@@ -3,7 +3,7 @@
 # FuzzScanner
 主要做了一点改动，去除了wydomain，升级了dirsearch、subdomain。对子域名去重支持更好。将可访问WEB系统输出到单一文件中，用于后续处理
 
-![007](images/007.png)
+<div align=center><img src=images/007.png  ></div>
 
 一个用来进行信息搜集的工具集，主要是用于对网站子域名、开放端口、端口指纹、c段地址、敏感目录、链接爬取等信息进行批量搜集。
 
