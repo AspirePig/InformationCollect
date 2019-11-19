@@ -1,6 +1,0 @@
-[
-    "www.guazi.com", 
-    "cwiki.guazi.com", 
-    "guazi.com", 
-    "guagua.guazi.com"
-]
